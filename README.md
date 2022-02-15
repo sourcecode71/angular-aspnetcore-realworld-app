@@ -1,4 +1,4 @@
-# .NET Core 6, Web API, EF project 
+# .NET 6, Angular, Web API, XUnit, EF practical project 
 
 My own experience developing client-server systems.
 Here I have added server side code. It is developing on .NET Core 6
